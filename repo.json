@@ -1,8 +1,0 @@
-{
-  "name": "OlaMovies Repository",
-  "description": "OlaMovies 4K & 1080p Extension",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/olamoviestop2758/olamoviesCS3/builds/plugins.json"
-  ]
-}
